@@ -1,0 +1,20 @@
++   apt update     
+
++   apt upgrade
+
++   pkg install nmap
+
++   pkg install wget
+
++   pkg install curl
+
++   pkg install git
+
++   git clone https://github.com/  HackeRStrategy/Irparpaya-a.git
++   cd Irparpaya.a
+
++   chmod +x real-host-v2.sh
+
++   bash real-host-v2.sh
+
++   ls
